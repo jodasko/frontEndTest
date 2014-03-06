@@ -2,8 +2,7 @@
 **Instrucciones:** La siguiente es una prueba para evaluar conocimientos de HTML, CSS y JavaScript.   
 Se busca que cumpla con los requerimientos especificados dentro del tiempo límite para esta prueba que es de 3 horas.  
 Se evaluará expertiz en HTML & CSS además aspectos de organización de código, buenas prácticas, priorización y creatividad para resolver los requerimientos.  
-**Es necesario contar con una cuenta en GitHub para realizar este ejercicio.
-**
+**Es necesario contar con una cuenta en GitHub para realizar este ejercicio.**
 ##Ejercicio:
 1. Clonar este repositorio.
 1. **MAQUETACIÓN** Deberá traducir el diseño ubicado en assets/Design PSD a HTML&CSS.  
