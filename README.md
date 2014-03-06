@@ -5,9 +5,9 @@ Se evaluará expertiz en HTML & CSS además aspectos de organización de código
 **Es necesario contar con una cuenta en GitHub para realizar este ejercicio.
 **
 ##Ejercicio:
-1. Clonar el repositorio ubicado en (http://repo.com).
-1. **MAQUETACIÓN** Deberá traducir el diseño ubicado en assets/maqueta.png a HTML&CSS.  
-Si es necesario puede [Descargar archivo PSD](https://dl.dropboxusercontent.com/u/33123404/test-front.psd)   
+1. Clonar este repositorio.
+1. **MAQUETACIÓN** Deberá traducir el diseño ubicado en assets/Design PSD a HTML&CSS.  
+Si es necesario puede descargar el PSD que esta en la carpeta assets/Design PSD   
 **Requerimientos:** Traducir diseño a HTML & CSS. Para simplificar el ejercicio el layout no cuenta con footer ni header. Deberá usar técnicas CSS3 cuando lo requiera.  
  
 1. **JAVASCRIPT** Se deben realizar las siguiente tareas:
