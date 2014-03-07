@@ -1,4 +1,3 @@
-<script>
 $(function(){
     // Convert a form in object require name in form
     $.fn.serializeObject = function(){
@@ -17,8 +16,8 @@ $(function(){
         return o;
     };
     
-    // REST: Ajax call params
-    // endpoint: https://webdevco.firebaseio.com/messages.json
-    // data: JSON.stringify($(this).serializeObject())
-    // contentType : 'application/json'
-</script>
+// REST: Ajax call params
+// endpoint: https://webdevco.firebaseio.com/messages.json
+// data: JSON.stringify($(this).serializeObject())
+// contentType : 'application/json'
+
