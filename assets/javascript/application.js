@@ -1,3 +1,4 @@
+<script>
 $(function(){
     // Convert a form in object require name in form
     $.fn.serializeObject = function(){
