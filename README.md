@@ -28,7 +28,7 @@ Si es necesario puede descargar el PSD que esta en la carpeta `assets/Design PSD
 	* Enviar los datos al siguiente REST endpoint: `https://webdevco.firebaseio.com/messages.json`. En el archivo `assets/javascript/application.js` encontrará otros tips. 
 Hacer submit de los datos mediante AJAX.
 
-1. **SEO Friendly:** Comparaonline busca siempre tener una buena posición en ránkings de búsqueda. Crear etiquetas necesarias para un buen **SEO**, se requieren cambios en la maqueta? (hint: keywords, crédito automotriz, comparador, crédito automotriz)  
+1. **SEO Friendly:** Comparaonline busca siempre tener una buena posición en ránkings de búsqueda. Crear etiquetas necesarias para un buen **SEO** (hint: use las keywords: crédito automotriz, comparador, crédito automotriz). Cree que se requieran cambios en la maqueta, ¿cuales?  
 **Opcional:** agregar share buttons y etiquetas para redes sociales (hint: [http://ogp.me](http://ogp.me)).
 
 1. **Advanced CSS:** Puede usar frameworks a elección para escribir CSS teniendo en cuenta la compatibilidad con distintos browsers (hint opcional: Usar [BrowserStack](http://www.browserstack.com/) para chequear el renderizado en distintos navegadores).  
