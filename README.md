@@ -32,7 +32,7 @@ Hacer submit de los datos mediante AJAX.
 **Opcional:** agregar share buttons y etiquetas para redes sociales (hint: [http://ogp.me](http://ogp.me)).
 
 1. **Advanced CSS:** Puede usar frameworks a elección para escribir CSS teniendo en cuenta la compatibilidad con distintos browsers (hint opcional: Usar [BrowserStack](http://www.browserstack.com/) para chequear el renderizado en distintos navegadores).  
-Crear maqueta responsive o fluid acomodando los elementos (creatividad libre) para buena disposición en los dispositivos más populares (iOS y Android)  
+Crear maqueta responsive o fluid acomodando los elementos (creatividad libre) para buena disposición en los dispositivos más populares (iOS y Android).  
 Opcional: ¿cuál sería su enfoque en la construcción del diseño?
 
 1. **Para finalizar la tarea se requiere hacer un Pull Request al mismo repositorio con las tareas realizadas. Se recomienda al menos hacer un commit por tarea.**
