@@ -13,8 +13,8 @@ Se evaluará habilidad en HTML y CSS, además aspectos de organización de códi
 
 1. Clonar este repositorio.
 
-1. **Maquetación:** Deberás traducir el diseño ubicado en [`assets/Design PSD`](assets/Design PSD) a HTML+CSS.  
-Si es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PSD`](assets/Design PSD)  
+1. **Maquetación:** Deberás traducir el diseño ubicado en [`assets/Design PSD/`](assets/Design PSD/) a HTML+CSS.  
+Si es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PSD/`](assets/Design PSD/)  
 **Requerimientos:** Traducir diseño a HTML+CSS. Para simplificar el ejercicio el layout no cuenta con footer ni header. Deberás usar técnicas CSS3 cuando lo requiera.  
  
 1. **JavaScript:** Se deben realizar las siguiente tareas:
