@@ -15,7 +15,7 @@ Se evaluará habilidad en HTML y CSS, además aspectos de organización de códi
 
 1. **Maquetación:** Deberás traducir el diseño ubicado en [`assets/Design PSD/`](assets/Design PSD/) a HTML+CSS.  
 Si es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PSD/`](assets/Design PSD/)  
-**Requerimientos:** Traducir diseño a HTML+CSS. Para simplificar el ejercicio el layout no cuenta con footer ni header. Deberás usar técnicas CSS3 cuando lo requiera.  Además debe realizar el sitio responsive. No se entregan diseños para resoluciones menores a Desktop por lo que la creatividad es a elección. Se recomienda fuertemente realizar al menos la maquetación para mobile.
+**Requerimientos:** Traducir diseño a HTML+CSS. Para simplificar el ejercicio el layout no cuenta con footer ni header. Deberás usar técnicas CSS3 cuando lo requiera.  Además debe realizar el sitio responsive. No se entregan diseños para resoluciones menores a Desktop por lo que la creatividad es a elección. **Se recomienda fuertemente** realizar al menos la maquetación para mobile.
  
 1. **JavaScript:** Se deben realizar las siguiente tareas:
 	*  **Validaciones**
@@ -33,7 +33,6 @@ Hacer submit de los datos mediante AJAX.
 **Opcional:** agregar share buttons y etiquetas para redes sociales (hint: [http://ogp.me](http://ogp.me)).
 
 1. **Advanced CSS:** Puede usar frameworks a elección para escribir CSS teniendo en cuenta la compatibilidad con distintos browsers (hint opcional: Usar [BrowserStack](http://www.browserstack.com/) para chequear el renderizado en distintos navegadores).  
-Crear maqueta responsive o fluid acomodando los elementos (creatividad libre) para buena disposición en los dispositivos más populares (iOS y Android).  
 Opcional: ¿cuál sería tu enfoque en la construcción del diseño?
 
 1. **Para finalizar la tarea se requiere hacer un Pull Request al mismo repositorio con las tareas realizadas. Se recomienda al menos hacer un commit por tarea.**
