@@ -25,7 +25,7 @@ Si es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PS
 		*  Marca del auto: requerido
 		*  Año auto: requerido
 		*  Cuando planea comprar el vehículo: requerido
-	* Enviar los datos al siguiente REST endpoint: `https://webdevco.firebaseio.com/messages.json`. En el archivo [`assets/javascript/application.js`](assets/javascript/application.js) encontrará otros tips. 
+	* Enviar los datos al siguiente REST endpoint: `http://postero.meteor.com/foo`. En el archivo [`assets/javascript/application.js`](assets/javascript/application.js) encontrará otros tips. 
 Hacer submit de los datos mediante AJAX.
 
 1. **SEO Friendly:** ComparaOnline busca siempre tener una buena posición en ránkings de búsqueda. Crear etiquetas necesarias para un buen **SEO** (hint: use las keywords: crédito automotriz, comparador crédito automotriz).  
