@@ -1,6 +1,6 @@
 #Prueba FrontEnd
 
-La siguiente es una prueba para evaluar conocimientos de HTML, CSS y JavaScript.   
+La siguiente es una prueba para evaluar conocimientos de HTML, CSS, JavaScript y diseño Responsive.
 
 Se busca que cumpla con los requerimientos especificados dentro del tiempo límite para esta prueba que es de 3 horas.  
 
@@ -15,16 +15,14 @@ Se evaluará habilidad en HTML y CSS, además aspectos de organización de códi
 
 1. **Maquetación:** Deberás traducir el diseño ubicado en [`assets/Design PSD/`](assets/Design PSD/) a HTML+CSS.  
 Si es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PSD/`](assets/Design PSD/)  
-**Requerimientos:** Traducir diseño a HTML+CSS. Para simplificar el ejercicio el layout no cuenta con footer ni header. Deberás usar técnicas CSS3 cuando lo requiera.  Además debe realizar el sitio responsive. No se entregan diseños para resoluciones menores a Desktop por lo que la creatividad es a elección. **Se recomienda fuertemente** realizar al menos la maquetación para mobile.
+**Requerimientos:** Traducir diseño a HTML+CSS. Para simplificar el ejercicio el layout no cuenta con footer ni header. Deberás usar técnicas CSS3 cuando lo requiera.  Además debe realizar el sitio responsive. **Se recomienda fuertemente** realizar al menos la maquetación para desktop y mobile.
  
 1. **JavaScript:** Se deben realizar las siguiente tareas:
 	*  **Validaciones**
-		*  Valor del auto: requerido, deben ser números
-		*  Monto del pie:   requerido
-		*  Cifra válida Plazo del crédito: requerido 
 		*  Marca del auto: requerido
+		*  Modelo del auto: requerido
+		*  Email: requerido
 		*  Año auto: requerido
-		*  Cuando planea comprar el vehículo: requerido
 	* Enviar los datos al siguiente REST endpoint: `http://postero.meteor.com/foo`. En el archivo [`assets/javascript/application.js`](assets/javascript/application.js) encontrará otros tips. 
 Hacer submit de los datos mediante AJAX.
 
