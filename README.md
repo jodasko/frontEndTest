@@ -15,7 +15,7 @@ Se evaluará habilidad en HTML y CSS, además aspectos de organización de códi
 
 1. **Maquetación:** Deberás traducir el diseño ubicado en [`assets/Design PSD/`](assets/Design PSD/) a HTML+CSS.  
 Si es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PSD/`](assets/Design PSD/)  
-**Requerimientos:** Traducir diseño a HTML+CSS. Para simplificar el ejercicio el layout no cuenta con footer ni header. Deberás usar técnicas CSS3 cuando lo requiera.  Además debe realizar el sitio responsive. **Se recomienda fuertemente** realizar al menos la maquetación para desktop y mobile.
+**Requerimientos:** Traducir diseño a HTML+CSS. Deberás usar técnicas CSS3 y HTML5 cuando lo requiera. Además debe realizar el sitio responsive. **Se recomienda fuertemente** realizar al menos la maquetación para desktop y mobile. Utilizar FontAwesome donde crea necesario.
  
 1. **JavaScript:** Se deben realizar las siguiente tareas:
 	*  **Validaciones**
