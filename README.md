@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Prueba FrontEnd
 
 La siguiente es una prueba para evaluar conocimientos de HTML, CSS, JavaScript y diseño Responsive.
@@ -33,3 +34,7 @@ Si es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PS
 Opcional: ¿cuál sería tu enfoque en la construcción del diseño?
 
 1. **Para finalizar la tarea se requiere crear un archivo Zip con los archivos necesarios y enviar por correo a las direcciones incluidas en el correo antes de iniciar esta prueba.**
+=======
+# frontEndTest
+test for Front End developers
+>>>>>>> ecef7649602eed740fc2aa876e572529dfb4e5d0
