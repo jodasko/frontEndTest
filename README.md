@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Prueba FrontEnd
 
 La siguiente es una prueba para evaluar conocimientos de HTML, CSS, JavaScript y diseño Responsive.
@@ -37,4 +36,3 @@ Opcional: ¿cuál sería tu enfoque en la construcción del diseño?
 =======
 # frontEndTest
 test for Front End developers
->>>>>>> ecef7649602eed740fc2aa876e572529dfb4e5d0
