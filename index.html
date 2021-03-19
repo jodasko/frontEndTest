@@ -18,117 +18,126 @@
     <title>Front End Test</title>
   </head>
   <body>
-    <div class="header__logo p-2 bg-dark">
+    <div class="header__logo py-3 p-2 bg-dark">
       <img src="./assets/images/Logo-CO-gris.png" alt="logo" />
     </div>
 
-    <div class="title text-center my-2">
-      <h1 class="my-2">Cotiza tu Seguro Automotriz</h1>
-      <h2>¡Resultados Instantáneos!</h2>
-    </div>
+    <div class="bg_line"></div>
 
-    <div
-      class="alert alert-danger text-center message__validate"
-      role="alert"
-    ></div>
-
-    <section role="form" class="container form__wrapper">
-      <form>
-        <div class="row my-4 form__fields">
-          <div class="col-12 col-sm-12 col-lg-6">
-            <div class="row">
-              <div class="col-sm-3 col-lg-12">
-                <label class="form__label" for="marca_del_auto"
-                  >Marca del auto</label
-                >
-              </div>
-              <div class="col-sm-9 col-lg-12">
-                <select id="marca_del_auto" name="marca_del_auto" required>
-                  <option class="mobile" value="null" selected disabled>
-                    Marca del auto
-                  </option>
-                  <option value="opel">Opel</option>
-                  <option value="skoda">Skoda</option>
-                  <option>Renault</option>
-                </select>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-7 col-sm-12 col-lg-6">
-            <div class="row">
-              <div class="col-sm-3 col-lg-12">
-                <label class="form__label" for="modelo_del_auto"
-                  >Modelo del auto</label
-                >
-              </div>
-              <div class="col-sm-9 col-lg-12">
-                <select id="modelo_del_auto" name="modelo_del_auto" required>
-                  <option class="mobile" value="null" selected disabled>
-                    Modelo del auto
-                  </option>
-                  <option value="1">Modelo 1</option>
-                  <option value="2">Modelo 2</option>
-                  <option value="3">Modelo 3</option>
-                </select>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-5 col-sm-12 col-lg-4">
-            <div class="row">
-              <div class="col-sm-3 col-lg-12">
-                <label class="form__label" for="ano_auto">Año</label>
-              </div>
-              <div class="col-sm-2 col-lg-12">
-                <select id="ano_auto" class="ano_auto" name="ano_auto" required>
-                  <option class="mobile" value="null" selected disabled>
-                    Año
-                  </option>
-                  <option value="1999">1999</option>
-                  <option value="2005">2005</option>
-                  <option value="2014">2014</option>
-                </select>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-12 col-sm-12 col-lg-8">
-            <div class="row">
-              <div class="col-sm-3 col-lg-12">
-                <label class="form__label" for="email">Email</label>
-              </div>
-              <div class="col-sm-9 col-lg-12">
-                <input
-                  type="text"
-                  id="email"
-                  name="email"
-                  placeholder="Email"
-                  required
-                />
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div style="clear: both"></div>
-
-        <div class="row">
-          <button
-            class="btn__cotizar"
-            type="submit"
-            name="submit"
-            id="cotizar__btn"
-          >
-            Cotizar
-          </button>
-        </div>
-      </form>
-      <div style="clear: both"></div>
-      <div class="link__recuperar my-4 text-center">
-        <a href="#">Recuperar cotizacion</a>
+    <div class="form__wrapper__all">
+      <div class="title text-center my-4">
+        <h1 class="fs-1">Cotiza tu Seguro Automotriz</h1>
+        <h2 class="fs-3">¡Resultados Instantáneos!</h2>
       </div>
-    </section>
+
+      <div
+        class="alert alert-danger text-center message__validate"
+        role="alert"
+      ></div>
+
+      <section role="form" class="container form__wrapper">
+        <form>
+          <div class="row my-4 form__fields">
+            <div class="col-12 col-sm-12 col-lg-6">
+              <div class="row">
+                <div class="col-sm-3 col-lg-12">
+                  <label class="form__label" for="marca_del_auto"
+                    >Marca del auto</label
+                  >
+                </div>
+                <div class="col-sm-9 col-lg-12">
+                  <select id="marca_del_auto" name="marca_del_auto" required>
+                    <option class="mobile" value="null" selected disabled>
+                      Marca del auto
+                    </option>
+                    <option value="opel">Opel</option>
+                    <option value="skoda">Skoda</option>
+                    <option>Renault</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-7 col-sm-12 col-lg-6">
+              <div class="row">
+                <div class="col-sm-3 col-lg-12">
+                  <label class="form__label" for="modelo_del_auto"
+                    >Modelo del auto</label
+                  >
+                </div>
+                <div class="col-sm-9 col-lg-12">
+                  <select id="modelo_del_auto" name="modelo_del_auto" required>
+                    <option class="mobile" value="null" selected disabled>
+                      Modelo del auto
+                    </option>
+                    <option value="1">Modelo 1</option>
+                    <option value="2">Modelo 2</option>
+                    <option value="3">Modelo 3</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-5 col-sm-12 col-lg-4">
+              <div class="row">
+                <div class="col-sm-3 col-lg-12">
+                  <label class="form__label" for="ano_auto">Año</label>
+                </div>
+                <div class="col-sm-2 col-lg-12">
+                  <select
+                    id="ano_auto"
+                    class="ano_auto"
+                    name="ano_auto"
+                    required
+                  >
+                    <option class="mobile" value="null" selected disabled>
+                      Año
+                    </option>
+                    <option value="1999">1999</option>
+                    <option value="2005">2005</option>
+                    <option value="2014">2014</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-sm-12 col-lg-8">
+              <div class="row">
+                <div class="col-sm-3 col-lg-12">
+                  <label class="form__label" for="email">Email</label>
+                </div>
+                <div class="col-sm-9 col-lg-12">
+                  <input
+                    type="text"
+                    id="email"
+                    name="email"
+                    placeholder="Email"
+                    required
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div style="clear: both"></div>
+
+          <div class="row">
+            <button
+              class="btn__cotizar"
+              type="submit"
+              name="submit"
+              id="cotizar__btn"
+            >
+              Cotizar
+            </button>
+          </div>
+        </form>
+        <div style="clear: both"></div>
+        <div class="link__recuperar my-4 text-center">
+          <a href="#">Recuperar cotizacion</a>
+        </div>
+      </section>
+    </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
     <script src="./assets/javascript/validation.js"></script>
